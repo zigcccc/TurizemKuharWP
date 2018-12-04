@@ -1,0 +1,29 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "Wordpress theme development package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cm": "git cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zigcccc/TurizemKuharWP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "config": {
+    "cz-emoji": {
+      "path": "node_modules/cz-emoji" 
+    }
+  },
+  "bugs": {
+    "url": "https://github.com/zigcccc/TurizemKuharWP/issues"
+  },
+  "homepage": "https://github.com/zigcccc/TurizemKuharWP#readme",
+  "devDependencies": {
+    "cz-emoji": "^1.1.2"
+  }
+}
